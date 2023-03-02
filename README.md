@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Bnop1146
 
+# 💫 About Me:
+🔭 I’m am currently working towards completing my bachelordegree in Web Development<br>
+
 <img src="https://komarev.com/ghpvc/?username=Bnop1146&label=Profile%20views&color=0e75b6&style=flat" alt="Bnop1146" />
 
 
