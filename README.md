@@ -47,8 +47,8 @@ src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnop1146&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=trueshow_icons=true&locale=en&layout=compact" alt="bnop1146" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bnop1146&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=trueshow_icons=true&locale=en&layout=compact" alt="bnop1146" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bnop1146&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=trueshow_icons=true&locale=en" alt="bnop1146" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bnop1146&show_icons=true&locale=en" alt="bnop1146" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bnop1146&" alt="bnop1146" /></p>
