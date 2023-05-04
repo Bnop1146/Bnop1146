@@ -47,8 +47,8 @@ src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnop1146&show_icons=true&locale=en&layout=compact" alt="bnop1146" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bnop1146&show_icons=true&locale=en&layout=compact,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true"" alt="bnop1146" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnop1146&show_icons=true&locale=en" alt="bnop1146" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bnop1146&show_icons=true&locale=en" alt="bnop1146" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnop1146&" alt="bnop1146" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bnop1146&" alt="bnop1146" /></p>
