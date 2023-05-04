@@ -1,10 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joachim Berner
-======================================================================================================================================
 
-I am on the path to becoming a Full-Stack Developer
----------------------------------------------------
-
-As a student studying web development, I am passionate about creating and maintaining websites, web applications, and online platforms. I have a strong understanding of web programming languages such as HTML, CSS, and JavaScript, as well as back-end languages such as PHP . I am constantly learning and staying up-to-date with the latest trends and technologies in the field of web development.
 
 * 🌍  I'm based in Denmark
 * ✉️  You can contact me at [joachim.berner@hotmail.com](mailto:joachim.berner@hotmail.com)
@@ -13,8 +7,11 @@ As a student studying web development, I am passionate about creating and mainta
 <a href="https://www.github.com/Bnop1146" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
 
-<h1 align="center">Hi 👋, I'm Joachim Berner</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joachim Berner</h1>
 <h3 align="center">I am on the path to becoming a Full-Stack Developer</h3>
+---------------------------------------------------
+
+As a student studying web development, I am passionate about creating and maintaining websites, web applications, and online platforms. I have a strong understanding of web programming languages such as HTML, CSS, and JavaScript, as well as back-end languages such as PHP . I am constantly learning and staying up-to-date with the latest trends and technologies in the field of web development.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnop1146" alt="bnop1146" /></a> </p>
 
@@ -23,6 +20,9 @@ src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-
 - 📫 How to reach me **Joachim.Berner@hotmail.com**
 
 - ⚡ Fun fact **I Think i am a Funny Guy ;D**
+
+- 🌍  I'm based in Denmark
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
