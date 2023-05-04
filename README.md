@@ -7,8 +7,9 @@ I am on the path to becoming a Full-Stack Developer
 As a student studying web development, I am passionate about creating and maintaining websites, web applications, and online platforms. I have a strong understanding of web programming languages such as HTML, CSS, and JavaScript, as well as back-end languages such as PHP . I am constantly learning and staying up-to-date with the latest trends and technologies in the field of web development.
 
 * 🌍  I'm based in Denmark
-* ✉️  You can contact me at [joachim.berner@hotmail.com](mailto:joachim.berner@hotmail.com)
-* 🧠  I'm learning React with a spice of Three.js
+* 📫  You can contact me at [joachim.berner@hotmail.com](mailto:joachim.berner@hotmail.com)
+* 🌱  I'm learning React with a spice of Three.js
+* ⚡ Fun fact **I Think i am a Funny Guy ;D**
 
 <a href="https://www.github.com/Bnop1146" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
@@ -46,8 +47,8 @@ src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bnop1146"><img src="https://github-readme-stats.vercel.app/api?username=Bnop1146&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="Bnop1146's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnop1146&show_icons=true&locale=en&layout=compact" alt="bnop1146" /></p>
 
-<a href="http://www.github.com/Bnop1146"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bnop1146&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnop1146&show_icons=true&locale=en" alt="bnop1146" /></p>
 
-<a href="https://github.com/Bnop1146" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnop1146&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnop1146&" alt="bnop1146" /></p>
