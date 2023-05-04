@@ -52,3 +52,7 @@ src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bnop1146&show_icons=true&locale=en" alt="bnop1146" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bnop1146&" alt="bnop1146" /></p>
+
+<a href="http://www.github.com/Bnop1146"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bnop1146&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Bnop1146" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnop1146&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
