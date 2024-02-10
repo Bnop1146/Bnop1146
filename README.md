@@ -9,7 +9,6 @@ As a student studying web development, I am passionate about creating and mainta
 * 🌍  I'm based in Denmark
 * 📫  You can contact me at [joachim.berner@hotmail.com](mailto:joachim.berner@hotmail.com)
 * 🌱  I'm learning React with a spice of Three.js
-* ⚡  Fun fact **I Think i am a Funny Guy ;D**
 
 <a href="https://www.github.com/Bnop1146" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bnop1146?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a>
